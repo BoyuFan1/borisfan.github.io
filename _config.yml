@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Boyu Fan"
   avatar           : "profile.png"
-  bio              : "Multi-Modal Learning \n under Prof. Marcus Rohrbach"
+  bio              : "Student at University of California, Berkeley"
   location         : "Berkeley, CA"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            :
+  email            : "david_fan1@berkeley.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -99,7 +99,7 @@ author:
   github           : "boyufan1"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : 
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/boyu-fan-04669b22b/"
