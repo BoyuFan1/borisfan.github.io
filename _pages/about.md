@@ -16,7 +16,7 @@ Greetings! 🌍 I'm Boyu Fan, a junior at UC Berkeley double majoring in Economi
 ------
 In the heart of Kenya, I found my calling as a conservationist with the Lion Light project, a initiative blending technology and environmental stewardship.
 
-As the Chief Advocate, I've been instrumental in installing innovative lion lights, which uses blinking light patterns to ward off lions from the villager’s livestock. My role extends beyond just installation; it involves research, community engagement, and raising awareness. By raising $7000, we've expanded the project, installing 800 additional lights and earning heartfelt thanks from the local Kenyan community. More can be found in the project page.
+As the Chief Advocate, I've been instrumental in installing innovative lion lights, which uses blinking light patterns to ward off lions from the villager’s livestock. My role extends beyond just installation; it involves research, community engagement, and raising awareness. By raising $7000, we've expanded the project, installing 800 additional lights and earning heartfelt thanks from the local Kenyan community. More can be found on the project page.
 
 
 
