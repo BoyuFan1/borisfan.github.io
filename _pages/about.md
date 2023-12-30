@@ -28,4 +28,4 @@ As a torchbearer in the realm of teaching, I engage with students as a tutor and
 
 ## 🎲 Connect With Me
 ------
-If you're intrigued by deep learning breakthroughs, passionate about wildlife conservation, or just up for a tennis game🎾, let's connect! Who knows what puzzles we might solve together? 🌟🤝
+If you're intrigued by deep learning breakthroughs, passionate about wildlife conservation, or just up for a tennis game 🎾, let's connect! Who knows what puzzles we might solve together? 🌟🤝
