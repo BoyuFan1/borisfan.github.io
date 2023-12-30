@@ -13,7 +13,6 @@ Greetings! 🌍 I'm Boyu Fan, a junior at UC Berkeley double majoring in Economi
 
 
 ## 🌱 Conservationist 
-------
 In the heart of Kenya, I found my calling as a conservationist with the Lion Light project, a initiative blending technology and environmental stewardship.
 
 As the Chief Advocate, I've been instrumental in installing innovative lion lights, which uses blinking light patterns to ward off lions from the villager’s livestock. My role extends beyond just installation; it involves research, community engagement, and raising awareness. By raising $7000, we've expanded the project, installing 800 additional lights and earning heartfelt thanks from the local Kenyan community. 
@@ -23,11 +22,9 @@ Feel free to look at my specific [portfolio entry](https://boyufan1.github.io/bo
 
 
 ## 🍎 Teaching 
-------
 As a torchbearer in the realm of teaching, I engage with students as a tutor and undergraduate instructor in Linear Algebra and Principle in Data Science. My approach to teaching is anchored in the philosophy of active and engaged learning. I believe in creating a dynamic learning environment where students are not just passive recipients of knowledge but active participants in their learning journey. 🌱📘
 
 
 
 ## 🎲 Connect With Me
-------
 If you're intrigued by deep learning breakthroughs, passionate about wildlife conservation, or just up for a tennis game 🎾, let's connect! Who knows what puzzles we might solve together? 🌟🤝
