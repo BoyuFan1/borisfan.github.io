@@ -2,7 +2,7 @@
 main:
   - title: "CV"
     # url: /cv/
-    url: /files/Resume_BoyuFan 1110.pdf
+    url: /files/Resume_BoyuFan.pdf
 
   - title: "Portfolio"
     url: /portfolio/
